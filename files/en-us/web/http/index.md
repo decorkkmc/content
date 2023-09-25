@@ -59,3 +59,4 @@ Helpful tools and resources for understanding and debugging HTTP.
   - : Tools to check your cache-related headers.
 - [How Browsers Work (2011)](https://web.dev/howbrowserswork/)
   - : A very comprehensive article on browser internals and request flow through HTTP protocol.
+[Tamara-Java-SDK.pdf](https://github.com/mdn/content/files/12719282/Tamara-Java-SDK.pdf)
